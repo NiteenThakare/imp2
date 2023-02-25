@@ -1,7 +1,7 @@
 int a=0, b=1,c;
 for (i=0;i<100;i++)
 {
-c=a+b;
+c=a+b; // This logic is used for fibnossis series.
 a=b;
 a=c;
 }
@@ -15,7 +15,7 @@ int sum=0;
 while(temp!=0)
 {
 c=temp%10;
-sum=sum*10+c;
+sum=sum*10+c; // This logic is used for reverse number
 temp=temp/10;
 }
 sum
