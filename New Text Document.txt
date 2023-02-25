@@ -1,0 +1,38 @@
+int a=0, b=1,c;
+for (i=0;i<100;i++)
+{
+c=a+b;
+a=b;
+a=c;
+}
+
+a=4321;
+int a=4321;;
+int temp=a;
+int c;
+int sum=0;
+
+while(temp!=0)
+{
+c=temp%10;
+sum=sum*10+c;
+temp=temp/10;
+}
+sum
+
+
+10+2,3
+120+3
+123
+String s= "9876";
+
+
+String s= "I am Niteen Thakare";
+ s.StringSplit(
+
+
+
+
+
+
+
